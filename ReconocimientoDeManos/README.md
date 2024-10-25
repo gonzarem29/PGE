@@ -1,6 +1,9 @@
 # Gestos y Uso
 
 Una vez el programa este abierto, se puede ver el widget que nos permite empezar a controlar el mouse con diferentes gestos. Este widget se puede mover o minimizar por la pantalla sin ser una molestia mayor.
+
+![Indice](PGE/ReconocimientoDeManos/Imagenes/MoverCursor.png)
+
 -	Índice:
 Con este dedo podemos mover el mouse, el programa siempre puede detectar una mano al verla desde la cámara. Pero al mostrar el índice nos permite controlarlo.
 
